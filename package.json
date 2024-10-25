@@ -11,7 +11,7 @@
   "dependencies": {
     "core-js": "^3.6.5",
     "video.js": "^7.8.4",
-    "vue": "^2.6.11",
+    "vue": "^3.0.0",
     "vue-flux": "^6.2.1",
     "vue-router": "^3.2.0",
     "vuex": "^3.4.0"
